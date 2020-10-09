@@ -2,6 +2,11 @@
 bazel-*
 user.bazelrc
 
+# make stuff
+result/
+src/generate_methodidx/generate_methodidx
+src/libp2p_helper/libp2p_helper
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
